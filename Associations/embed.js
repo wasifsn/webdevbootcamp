@@ -39,7 +39,7 @@ var User = mongoose.model("User", userSchema);
 //     content: "They are delicious"
 // });
 
-// newPost.save(function(err, post){
+// // newPost.save(function(err, post){
 //     if(err){
 //         console.log(err);
 //     } else {
